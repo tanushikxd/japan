@@ -459,7 +459,7 @@ header{
 .first{
     min-height: 100vh;
     height: 962px;
-    background: url(/assets/images/first-bg.jpg) no-repeat center;
+    background: url(../assets/images/first-bg.jpg) no-repeat center;
     background-size: cover;
     padding-top: 263px;
     color: white;
@@ -485,7 +485,7 @@ header{
     gap: 61px;
 }
 .search-form_field{
-    background: transparent url(/assets/icons/Oval.svg) no-repeat left 3px;
+    background: transparent url(../assets/icons/Oval.svg) no-repeat left 3px;
     width: 297px;
     border: 0;
     border-bottom: 2px solid #D8D8D8;
@@ -577,12 +577,12 @@ header{
     line-height: 24px;
     text-decoration: none;
     color: #006DFE;
-    background: url(/assets/icons/arrow.svg) no-repeat 95% center ;
+    background: url(../assets/icons/arrow.svg) no-repeat 95% center ;
     transition: 0.2s all;
 }
     .benefits-card_more:hover, 
     .benefits-card_more:focus{
-     background: url(/assets/icons/arrow.svg) no-repeat center right;
+     background: url(../assets/icons/arrow.svg) no-repeat center right;
 }
 /* Benefits end */
 
@@ -607,7 +607,7 @@ header{
     color: #006DFE;
     text-decoration: none;
     padding-right: 59px;
-    background: url(/assets/icons/arrow.svg) no-repeat right center ;
+    background: url(../assets/icons/arrow.svg) no-repeat right center ;
 }
 .places-view_all:hover{
     opacity: .65;
@@ -711,7 +711,7 @@ header{
     color: #006DFE;
     text-decoration: none;
     padding-right: 59px;
-    background: url(/assets/icons/arrow.svg) no-repeat right center ;
+    background: url(../assets/icons/arrow.svg) no-repeat right center ;
 }
 .tour-more:hover, .tour-more:focus{
     opacity: .65;
@@ -766,7 +766,7 @@ header{
     line-height: 24px;
     color: white;
     padding-right: 20px;
-    background: url(/assets/icons/heart.svg) no-repeat right;
+    background: url(../assets/icons/heart.svg) no-repeat right;
     margin-right: 14px;
 }
 .top-card_message{
@@ -775,7 +775,7 @@ header{
     line-height: 24px;
     color: white;
     padding-right: 23px;
-    background: url(/assets/icons/Message.svg) no-repeat right;
+    background: url(../assets/icons/Message.svg) no-repeat right;
 }
 .top-card_desc{
     font-weight: 400;
